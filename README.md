@@ -6,6 +6,6 @@ Player 1 rolls the dice and add the dice number to current score, if the dice nu
 
 Hold button is used to add current score to player's score and another player gets the chance
 
-First to score 25 or more wins the game
+First to score 100 or more wins the game
 
 ![](demo/demo.gif)
