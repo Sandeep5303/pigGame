@@ -8,4 +8,6 @@ Hold button is used to add current score to player's score and another player ge
 
 First to score 100 or more wins the game
 
+Below preview winning criteria is 20pts
+
 ![](demo/demo.gif)
